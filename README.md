@@ -19,7 +19,7 @@ Trabajo enfocado en el análisis de ventas por medio de Excel, permitiendo filtr
 
 <br>
 
-![Dashboard de ventas](readme_assets\gif_1_1.gif)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
