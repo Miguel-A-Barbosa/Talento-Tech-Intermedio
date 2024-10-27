@@ -34,7 +34,7 @@ Trabajo enfocado en el análisis de archivos CSV usando Excel y la ayuda de las 
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -49,7 +49,7 @@ Trabajo enfocado en la exploración de la librería "Pandas" por medio de "Googl
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -64,7 +64,7 @@ Trabajo enfocado en el análisis resolver el problema de negocio de una entidad 
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -91,7 +91,7 @@ Trabajo enfocado en el análisis y visualización de una base de datos del fútb
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -106,7 +106,7 @@ Trabajo enfocado en el análisis exploratorio del lenguaje SQL, cuyo propósito 
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -133,7 +133,7 @@ Trabajo enfocado en el web scraping de un sitio web, extrayendo literalmente cad
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -148,7 +148,7 @@ Trabajo enfocado en el modelado y visualización de los CSV dados, generando mé
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -175,7 +175,7 @@ Trabajo enfocado al análisis de sentimientos en base a un archivo CSV con disti
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -190,7 +190,7 @@ Trabajo enfocado en el análisis, modelado y visualización de las finanzas de l
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
@@ -205,7 +205,7 @@ Trabajo enfocado en el análisis y visualización de los empleados según un arc
 
 <br>
 
-![Dashboard de ventas](assets/dashboard_ventas.png)
+![Dashboard de ventas](gif_analisis_ventas.gif)
 
 <br><br>
 
