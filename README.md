@@ -19,7 +19,7 @@ Trabajo enfocado en el análisis de ventas por medio de Excel, permitiendo filtr
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -34,7 +34,7 @@ Trabajo enfocado en el análisis de archivos CSV usando Excel y la ayuda de las 
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -49,7 +49,7 @@ Trabajo enfocado en la exploración de la librería "Pandas" por medio de "Googl
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -64,7 +64,7 @@ Trabajo enfocado en el análisis resolver el problema de negocio de una entidad 
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -91,7 +91,7 @@ Trabajo enfocado en el análisis y visualización de una base de datos del fútb
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -106,7 +106,7 @@ Trabajo enfocado en el análisis exploratorio del lenguaje SQL, cuyo propósito 
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -133,7 +133,7 @@ Trabajo enfocado en el web scraping de un sitio web, extrayendo literalmente cad
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -148,7 +148,7 @@ Trabajo enfocado en el modelado y visualización de los CSV dados, generando mé
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -175,7 +175,7 @@ Trabajo enfocado al análisis de sentimientos en base a un archivo CSV con disti
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -190,7 +190,7 @@ Trabajo enfocado en el análisis, modelado y visualización de las finanzas de l
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
@@ -205,7 +205,7 @@ Trabajo enfocado en el análisis y visualización de los empleados según un arc
 
 <br>
 
-![GIF](https://i.imgur.com/FVrVvxS.gif)
+![GIF](1920_1080_30_10000.gif)
 
 <br><br>
 
