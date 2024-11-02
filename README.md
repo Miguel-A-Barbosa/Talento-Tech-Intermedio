@@ -49,7 +49,7 @@ Trabajo enfocado en la exploración de la librería "Pandas" por medio de "Googl
 
 <br>
 
-![GIF](1280_720_30_10000.gif)
+![GIF](gif_1_3.gif)
 
 <br><br>
 
@@ -64,7 +64,7 @@ Trabajo enfocado en el análisis resolver el problema de negocio de una entidad 
 
 <br>
 
-![GIF](1280_720_30_10000.gif)
+![GIF](gif_1_3.gif)
 
 <br><br>
 
