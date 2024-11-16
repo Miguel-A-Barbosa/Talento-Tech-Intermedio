@@ -21,7 +21,7 @@ Análisis de ventas realizado en Excel, con la posibilidad de filtrar datos seg�
 
 <br>
 
-![ANÁLISIS DE VENTAS](readme_assets\gif_1_1.gif)
+![ANÁLISIS DE VENTAS](readme_assets/gif_1_1.gif)
 
 <br><br><br>
 
@@ -36,7 +36,7 @@ Análisis de archivos CSV en Excel, complementado con el uso de las librerías P
 
 <br>
 
-![ANÁLISIS DE DATASETS](readme_assets\gif_1_2.gif)
+![ANÁLISIS DE DATASETS](readme_assets/gif_1_2.gif)
 
 <br><br><br>
 
@@ -51,7 +51,7 @@ Exploración de la librería Pandas mediante Google Colab, analizando las divers
 
 <br>
 
-![INMERSIÓN](readme_assets\gif_1_3.gif)
+![INMERSIÓN](readme_assets/gif_1_3.gif)
 
 <br><br><br>
 
@@ -66,7 +66,7 @@ Análisis enfocado en resolver un problema de negocio de una entidad bancaria, a
 
 <br>
 
-![LABORATORIO](readme_assets\gif_1_4.gif)
+![LABORATORIO](readme_assets/gif_1_4.gif)
 
 <br><br><br>
 
@@ -93,7 +93,7 @@ Análisis y visualización de una base de datos sobre el fútbol europeo, desarr
 
 <br>
 
-![ANÁLISIS FÚTBOL EUROPEO](readme_assets\gif_2_1.gif)
+![ANÁLISIS FÚTBOL EUROPEO](readme_assets/gif_2_1.gif)
 
 <br><br><br>
 
@@ -108,7 +108,7 @@ Análisis exploratorio del lenguaje SQL, con el propósito de profundizar en sus
 
 <br>
 
-![TALLER DE SQL](readme_assets\gif_2_2.gif)
+![TALLER DE SQL](readme_assets/gif_2_2.gif)
 
 <br><br><br>
 
@@ -135,7 +135,7 @@ Web scraping de un sitio web, extrayendo todos los elementos HTML de la página 
 
 <br>
 
-![WEB SCRAPING](readme_assets\gif_3_1.gif)
+![WEB SCRAPING](readme_assets/gif_3_1.gif)
 
 <br><br><br>
 
@@ -150,7 +150,7 @@ Modelado y visualización a partir de archivos CSV, generando métricas alineada
 
 <br>
 
-![POWER BI](readme_assets\gif_3_2.gif)
+![POWER BI](readme_assets/gif_3_2.gif)
 
 <br><br><br>
 
@@ -177,7 +177,7 @@ Análisis de sentimientos a partir de un archivo CSV con diversos comentarios. P
 
 <br>
 
-![ANÁLISIS DE SENTIMIENTOS](readme_assets\gif_4_1.gif)
+![ANÁLISIS DE SENTIMIENTOS](readme_assets/gif_4_1.gif)
 
 <br><br><br>
 
@@ -192,7 +192,7 @@ Análisis, modelado y visualización de las finanzas de la empresa, con gráfico
 
 <br>
 
-![PBI FINANZAS](readme_assets\gif_4_2.gif)
+![PBI FINANZAS](readme_assets/gif_4_2.gif)
 
 <br><br><br>
 
@@ -207,7 +207,7 @@ Análisis y visualización de los empleados a partir de un archivo CSV, mostrand
 
 <br>
 
-![PBI RECURSOS HUMANOS](readme_assets\gif_4_3.gif)
+![PBI RECURSOS HUMANOS](readme_assets/gif_4_3.gif)
 
 <br><br><br>
 
