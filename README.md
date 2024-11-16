@@ -13,7 +13,7 @@
 <details open>
 <summary><h2>👨‍💻 MÓDULO 1 👨‍💻</h2></summary>
 
-### 1. [ANÁLISIS DE VENTAS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%201/Pr%C3%A1ctica%20Excel)
+### 1. [ANÁLISIS DE VENTAS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%201/An%C3%A1lisis%20De%20Ventas)
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
@@ -28,7 +28,7 @@ Análisis de ventas realizado en Excel, con la posibilidad de filtrar datos seg�
 
 
 
-### 2. [ANÁLISIS DE DATASETS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%201/Manos%20A%20La%20Obra)
+### 2. [ANÁLISIS DE DATASETS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%201/An%C3%A1lisis%20De%20Datasets)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-185A80.svg?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-5B618D.svg?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org/) [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)](https://www.microsoft.com/en-us/microsoft-365/excel)
 
@@ -43,7 +43,7 @@ Análisis de archivos CSV en Excel, complementado con el uso de las librerías P
 
 
 
-### 3. [INMERSIÓN](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%201/Actividad%20En%20Clase)
+### 3. [INMERSIÓN](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%201/Inmersi%C3%B3n)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/)
 
@@ -58,7 +58,7 @@ Exploración de la librería Pandas mediante Google Colab, analizando las divers
 
 
 
-### 4. [LABORATORIO](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%201/Laboratorio)
+### 4. [LABORATORIO](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%201/Laboratorio)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-185A80.svg?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-5B618D.svg?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org/) [![ScikitLearn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=cyan)](https://scikit-learn.org/stable/)
 
@@ -85,7 +85,7 @@ Análisis enfocado en resolver un problema de negocio de una entidad bancaria, a
 <details open>
 <summary><h2>📚 MÓDULO 2 📚</h2></summary>
 
-### 1. [ANÁLISIS FÚTBOL EUROPEO](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%202/Manos%20A%20La%20Obra)
+### 1. [ANÁLISIS FÚTBOL EUROPEO](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%202/An%C3%A1lisis%20F%C3%BAtbol%20Europeo)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=green)](https://www.sqlite.org/) [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=purple)](https://www.canva.com/en_gb/) [![Flourish](https://img.shields.io/badge/Flourish-%23ffffff.svg?style=for-the-badge&logo=Flourish)](https://flourish.studio/)
 
@@ -100,7 +100,7 @@ Análisis y visualización de una base de datos sobre el fútbol europeo, desarr
 
 
 
-### 2. [TALLER DE SQL](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%202/Taller%20SQL)
+### 2. [TALLER DE SQL](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%202/Taller%20De%20SQL)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=green)](https://www.sqlite.org/)
 
@@ -127,7 +127,7 @@ Análisis exploratorio del lenguaje SQL, con el propósito de profundizar en sus
 <details open>
 <summary><h2>🌐 MÓDULO 3 🌐</h2></summary>
 
-### 1. [WEB SCRAPING](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%203/Actividad%20Web%20Scraping)
+### 1. [WEB SCRAPING](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%203/Web%20Scraping)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![BeautifulSoup](https://img.shields.io/badge/Beautiful_Soup-%23ffffff.svg?style=for-the-badge&logo=Beautiful_Soup)](https://pypi.org/project/beautifulsoup4/)
 
@@ -142,7 +142,7 @@ Web scraping de un sitio web, extrayendo todos los elementos HTML de la página 
 
 
 
-### 2. [POWER BI](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%203/Power%20BI)
+### 2. [POWER BI](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%203/Power%20BI)
 
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
@@ -169,7 +169,7 @@ Modelado y visualización a partir de archivos CSV, generando métricas alineada
 <details open>
 <summary><h2>📈 MÓDULO 4 📈</h2></summary>
 
-### 1. [ANÁLISIS DE SENTIMIENTOS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%204/Actividad%20En%20Clase)
+### 1. [ANÁLISIS DE SENTIMIENTOS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%204/An%C3%A1lisis%20De%20Sentimientos)
 
 [![GoogleColab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/) [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=red)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-185A80.svg?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/)
 
@@ -184,7 +184,7 @@ Análisis de sentimientos a partir de un archivo CSV con diversos comentarios. P
 
 
 
-### 2. [PBI FINANZAS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%204/PBI%20Finanzas)
+### 2. [PBI FINANZAS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%204/PBI%20Finanzas)
 
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
@@ -199,7 +199,7 @@ Análisis, modelado y visualización de las finanzas de la empresa, con gráfico
 
 
 
-### 3. [PBI RECURSOS HUMANOS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/master/M%C3%B3dulo%204/PBI%20RRHH)
+### 3. [PBI RECURSOS HUMANOS](https://github.com/Miguel-A-Barbosa/Talento-Tech-Intermedio/tree/b7846e482aec4a9462773f9631d54ed0b0da4cc4/M%C3%B3dulo%204/PBI%20Recursos%20Humanos)
 
 [![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 
