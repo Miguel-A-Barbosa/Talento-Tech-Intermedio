@@ -225,4 +225,4 @@ Análisis y visualización de los empleados a partir de un archivo CSV, mostrand
 
 ## ✨ Autor
 
-Este proyecto fue realizado por **Miguel Angel Barbosa Martinez**, como parte de mi desarrollo académico. Si tienes preguntas o comentarios, no dudes en ponerte en contacto conmigo.
+Este proyecto fue realizado por **Miguel Barbosa**, como parte de mi desarrollo académico. Si tienes preguntas o comentarios, no dudes en ponerte en contacto conmigo.
